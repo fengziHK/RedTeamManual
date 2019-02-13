@@ -1,6 +1,6 @@
 ## 红队[ 蓝军 ] 实战 作战手册 [ 持续更新中... ]
 
-### 既 中文版 MITRE | ATT&CK 雏形 https://attack.mitre.org
+### 既 中文版 MITRE | ATT&CK 重度改进 雏形 https://attack.mitre.org
 ### 努力做一个平凡的庸人,安安静静,好好生活... 
 
 <img src="RedTeamManula.jpg" />
